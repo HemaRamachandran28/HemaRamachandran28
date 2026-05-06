@@ -146,14 +146,31 @@ hema = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HemaRamachandran28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaRamachandran28&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HemaRamachandran28&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<!-- GitHub Streak - DenverCoder1's reliable service -->
+<a href="https://github.com/HemaRamachandran28">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HemaRamachandran28&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7c6fe0&ring=7c6fe0&fire=ff6b6b&currStreakLabel=7c6fe0" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<a href="https://github.com/HemaRamachandran28">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaRamachandran28&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7c6fe0&line=7c6fe0&point=ff6b6b" alt="Contribution Graph" width="95%"/>
+</a>
+
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=HemaRamachandran28&color=7c6fe0&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
